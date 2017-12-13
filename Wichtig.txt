@@ -1,0 +1,5 @@
+Beim Starten des Programms wird ein neues Verzeichnis angelegt, falls dieses nicht bereits schon vorhanden ist. (C:\Seminar)
+Das Programm lagert dort Daten, wie etwa die generierten Zahlen in Text-Dateien mit den Endungen *.nmbs und *.smnr aus. 
+Diese können zum nachträglichen analysieren verwendet werden.
+Um eine graphische Auswertung des KS-Testes zu ermöglichen wird eine installierte Version von gnuplot benötigt. (http://www.gnuplot.info/)
+Der Quelltext des Programms wurde beigefügt.
